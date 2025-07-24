@@ -33,11 +33,8 @@ Welcome to my GitHub profile! Here's a quick overview of my journey and current 
 
 ## 📊 Skills Status Bar
 
-```mermaid
-progressBar
-    title My Learning Progress
-    "Kotlin" : 85
-    "XML" : 75
-    "Android Studio" : 70
-    "C" : 35
-    "Python" : 25
+![Kotlin Progress](https://progress-bar.dev/85/?title=Kotlin)
+![XML Progress](https://progress-bar.dev/75/?title=XML)
+![Android Studio Progress](https://progress-bar.dev/70/?title=Android%20Studio)
+![C Progress](https://progress-bar.dev/35/?title=C)
+![Python Progress](https://progress-bar.dev/25/?title=Python)

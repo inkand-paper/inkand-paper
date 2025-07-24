@@ -1,7 +1,7 @@
-# 👋 Hi, I'm inkand-paper!
+# 👋 Hi, I'm MD. Mustak Tahsin Abir!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7981A&center=true&vCenter=true&width=500&lines=Mobile+App+Developer+in+Training;Kotlin+Lover+%7C+Android+Studio+User;Learning+Every+Day!" alt="Animated typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7981A&center=true&vCenter=true&width=500&lines=Mobile+App+Developer+in+Training;Kotlin+Lover+%7C+Android+Studio+User;Learning+Every+Day!" alt="Animated typing SVG">
 </p>
 
 Welcome to my GitHub profile! Here's a quick overview of my journey and current status as a developer:
@@ -47,11 +47,6 @@ Welcome to my GitHub profile! Here's a quick overview of my journey and current 
   <img src="https://github-readme-stats.vercel.app/api?username=inkand-paper&show_icons=true&theme=radical" alt="inkand-paper's GitHub Stats"/>
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inkand-paper&theme=radical" alt="inkand-paper's GitHub Streak"/>
-</p>
 
 ## 🏆 Top Languages
 

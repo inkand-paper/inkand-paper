@@ -31,10 +31,41 @@ Welcome to my GitHub profile! Here's a quick overview of my journey and current 
 
 ---
 
-## 📊 Skills Status Bar
+## 📊 Skills Progress
 
-![Kotlin Progress](https://progress-bar.dev/85/?title=Kotlin)
-![XML Progress](https://progress-bar.dev/75/?title=XML)
-![Android Studio Progress](https://progress-bar.dev/70/?title=Android%20Studio)
-![C Progress](https://progress-bar.dev/35/?title=C)
-![Python Progress](https://progress-bar.dev/25/?title=Python)
+**Kotlin:** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)  
+**XML:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%)  
+**Android Studio:** 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%)  
+**C:** 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ (30%)  
+**Python:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ (20%)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inkand-paper&show_icons=true&theme=radical" alt="inkand-paper's GitHub Stats"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inkand-paper&theme=radical" alt="inkand-paper's GitHub Streak"/>
+</p>
+
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkand-paper&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- [GitHub](https://github.com/inkand-paper)
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my projects and connect.

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm MD. Mustak Tahsin Abir!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7981A&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Kotlin;Xml;Jetpack Compose;C;Python;Android+Studio+User;Learning+Every+Day!" alt="Animated typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7981A&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Kotlin;Xml;Jetpack+Compose;C;Python;Android+Studio+User;Learning+Every+Day!" alt="Animated typing SVG">
 </p>
 
 Welcome to my GitHub profile! Here's a quick overview of my journey and current status as a developer:
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! Here's a quick overview of my journey and current 
 ## 📊 Skills Progress
 
 **Kotlin:** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)  
-**Jetpack Compose:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)
+**Jetpack Compose:** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)  
 **XML:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%)  
 **Android Studio:** 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%)  
 **C:** 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ (30%)  

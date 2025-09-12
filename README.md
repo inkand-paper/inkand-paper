@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here's a quick overview of my journey and current 
   - **Git & GitHub** — for version control and collaboration
 
 - 🎓 **Education:**  
-  Currently learning **Mobile Application Development** at  
+  **Mobile Application Development** at  
   *Daffodil International Professional Training Institute* (by NSDA)  
   _(certified)_
 

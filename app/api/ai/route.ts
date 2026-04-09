@@ -17,7 +17,7 @@ export async function POST(req: NextRequest) {
       ],
       max_tokens: 150,
       temperature: 0.8,
-    });
+    }); 
 
     const text =
       completion.choices[0]?.message?.content || "Something glitched.";
